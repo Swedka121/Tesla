@@ -1,0 +1,152 @@
+.calculator {
+    margin-top: 56px;
+    background-color: white;
+    border-radius: 8px;
+    height:679px;
+}
+.calculator>h1 {
+    font-size: 39px;
+    font-weight: 700;
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.calculator>p {
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(146, 146, 157, 1);
+    margin-top: 24px;
+    margin-left: 48px;
+}
+.calc_form {
+    margin-top: 45px;
+    margin-left: 48px;
+}
+.calc_form>h1 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 32px;
+}
+.input1 {
+    margin-top: 21px;
+    width: 704px;
+    height: 56px; 
+    border-radius: 8px;
+    border:1px solid rgba(250, 60, 69, 1);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 16px;
+    color:rgba(154, 154, 176, 1);
+}
+.doblle_input {
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+    margin-top: 32px;
+}
+.input_container>h1 {
+    font-size: 16px;
+    font-weight: 400;
+}
+.input_container>input {
+    font-size: 16px;
+    font-weight: 400;
+    width:336px;
+    height:56px;
+    border-radius: 8px;
+    border:1px solid rgba(250, 60, 69, 1);
+    margin-top: 21px;
+    padding-left: 16px;
+    color:rgba(154, 154, 176, 1);
+}
+.input3 {
+    width:120px;
+    height:48px;
+    background-color: rgba(250, 60, 69, 1);
+    border:none;
+    border-radius: 8px;
+    color:white;
+    margin-top: 48px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.video {
+    margin-top: 0px;
+}
+.app {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+.app_text {
+    margin-top: 67px;
+    margin-left: 123px;
+    display: flex;
+    flex-direction: column;
+}
+.app_text>h1 {
+    font-weight: 700;
+    font-size: 48px;
+}
+.app_text>p {
+    margin-top: 22px;
+    font-weight: 400;
+    font-size: 16px;
+    color:rgba(146, 146, 157, 1);
+}
+.app_parameters {
+    display: flex;
+    flex-direction: column;
+    row-gap: 21px;
+    margin-top: 58px;
+}
+.app_parameter {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+.app_parameter>h1 {
+    margin-left: 18px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.icons_apps {
+    margin-top:43px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 25px;
+}
+.container6 {
+    margin-top: 160px;
+    padding-top: 80px;
+    padding-left: 10%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.buttons {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+    margin-top: 56px;
+}
+.button1 {
+    width: 192px;
+    height:56px;
+    border-radius: 8px;
+    border:none;
+    color:white;
+    background-color: rgba(250, 60, 69, 1);
+    font-size: 16px;
+    font-weight: 700;
+}
+.button2 {
+    border:2px solid rgba(250, 60, 69, 1);
+    border-radius: 8px;
+    background: none;
+    color:rgba(250, 60, 69, 1);
+    font-size: 16px;
+    font-weight: 700;
+    width: 156px;
+}
